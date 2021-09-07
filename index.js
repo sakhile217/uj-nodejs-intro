@@ -16,7 +16,8 @@ console.log("waiting for you:" + i)
 
 //const number = prompt('Enter a number');
 
-console.log(chalk.bgWhite.red(greet("Xola")));
+console.log(chalk.bgGreen.black(greet("Xola")));
+
 //console.log(greet("Sakhile"));
 //console.log(greet("Baloyi"));
 
